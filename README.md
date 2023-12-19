@@ -16,6 +16,14 @@ These mounts are suitable for use on V0 and Printers for Ants that include 2 mou
 
 Every extruder requires different length spacers, the lengths are documented here, but (for now?) no STL's for them are provided.  Find your favourite one and scale it.
 
+## Printing
+
+Use standard Voron settings, 0.2mm layers, 4 walls, 5 top, 5 bottom, 40% infill.
+
+Remove the support bridge before installing the PCB
+
+![Support Removal](Images/support_removal.gif)
+
 
 ## Extruders
 
