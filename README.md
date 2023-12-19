@@ -24,6 +24,10 @@ Remove the support bridge before installing the PCB
 
 ![Support Removal](Images/support_removal.gif)
 
+Install 2 M3x5x4 Heat-set inserts from the back
+
+![Heat-set Inserts](Images/heatsets.gif)
+
 
 ## Extruders
 
